@@ -1,5 +1,4 @@
 name: GitHub CI
-
 on:
   push:
     branches:
